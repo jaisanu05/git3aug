@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 File33 branch one final
+=======
+>>>>>>> branch2
 file33 branch3 folder3
